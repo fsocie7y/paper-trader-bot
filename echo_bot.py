@@ -36,7 +36,7 @@ def send_welcome(message):
     bot.send_message(
         message.chat.id,
         "Hello it's your Paper Trader bot.\nPlease enter your pair in next format.\n"
-        "Example pair: BTCUSDT"
+        "Example pair: BTCUSDT\n"
         "Enter /help to see help.\n"
     )
 

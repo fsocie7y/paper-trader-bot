@@ -1,6 +1,7 @@
 # Paper Trader telegram bot
 #### By Adrian Kuzhel
-
+# Try to use my bot
+[Paper Trader](https://t.me/adrPaperTrader_bot)
 # Create the same bot with GitHub
 
 ### Clone repository
