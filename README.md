@@ -1,5 +1,5 @@
 # Paper Trader telegram bot
-#####By Adrian Kuzhel
+####By Adrian Kuzhel
 
 # Create the same bot with GitHub
 
